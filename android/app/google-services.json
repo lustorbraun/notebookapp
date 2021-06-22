@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463888649509",
+    "firebase_url": "https://music-sync-872d6.firebaseio.com",
+    "project_id": "music-sync-872d6",
+    "storage_bucket": "music-sync-872d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463888649509:android:1bef3b669db726d9ccdecc",
+        "android_client_info": {
+          "package_name": "com.sumitsehrawat.notebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463888649509-9n7j7jspltv8mf51ka8datgehf5bnomn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumitsehrawat.notebookapp",
+            "certificate_hash": "7137c54cdd771dea6fb2fcb97b73d0a058907dd8"
+          }
+        },
+        {
+          "client_id": "463888649509-f3rm99lca74ill3vqnmt9tdgk1g5jhm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyvohRs2JiY-fSoFVBIqS7mqi_aPX3Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463888649509-f3rm99lca74ill3vqnmt9tdgk1g5jhm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
